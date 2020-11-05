@@ -1,0 +1,24 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+I want to make a 2d retro style game for my project. I would love to make something besides a side scroller,
+but I think that a side scroller is way more of a realistic option, but I am not sure yet. I want there to be
+combat in the game, but not a lot. I am not sure if I would be able to develop a combat system, so I would make certain
+parts involve certain challenges that simulate combat. For example I want the goal of the game to be to collect 5 pieces
+of a sword and then once you have the 5 pieces you are able to defeat the final boss. The combat would be that the 
+final boss keeps flying away from you and is a set distance away at all times while shooting projectiles so it is impossibel to slash the sword
+instead to defeat the boss you would throw the sword at them. To get the sword pieces there may be other little combat
+scenarios or puzzles to solve. I would possibly like to put little hints lying around, for example a scroll that hints 
+that the only way to defeat the final boss is to throw the sword at it. I would possibly like to make some sort of character 
+customization, a custom name at the very least. I would like to hopefully make the art assets via some sort of pixel art
+I am not really sure how that would work. I would also like to input music of some kind as well. This is a stretch but 
+also possibly an inventory system as well. 
+
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+TODO
+
+## Do you have any questions of your own?
+Does my preposal seem realistic in the timeframe we are given, I have not much programming experience outside of this class.
+TODO
