@@ -12,7 +12,7 @@ scenarios or puzzles to solve. I would possibly like to put little hints lying a
 that the only way to defeat the final boss is to throw the sword at it. I would possibly like to make some sort of character 
 customization, a custom name at the very least. I would like to hopefully make the art assets via some sort of pixel art
 I am not really sure how that would work. I would also like to input music of some kind as well. This is a stretch but 
-also possibly an inventory system as well. 
+also possibly an inventory system as well.. 
 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
